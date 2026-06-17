@@ -31,7 +31,6 @@ pavan = {
     "mission"    : "Building technology that actually helps people",
     "nonprofit"  : "One Community Global — 500+ global volunteers",
     "community"  : "NSS health awareness · Rural Andhra Pradesh villages",
-    "currently"  : "Applying for Claude Corps Fellowship 🚀",
 }
 ```
 
