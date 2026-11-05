@@ -26,7 +26,6 @@
 ```python
 pavan = {
     "name"       : "Siva Venkata Naga Pavan Putti",
-    "location"   : "Atlanta, GA 🇺🇸",
     "education"  : "MS Computer Science — UNC Charlotte",
     "mission"    : "Building technology that actually helps people",
     "nonprofit"  : "One Community Global — 500+ global volunteers",
